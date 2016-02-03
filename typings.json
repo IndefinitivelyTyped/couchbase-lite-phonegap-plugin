@@ -1,0 +1,5 @@
+{
+  "name": "couchbase-lite-phonegap-plugin",
+  "ambient": true,
+  "main": "cblite.d.ts"
+}
