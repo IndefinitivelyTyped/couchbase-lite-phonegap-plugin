@@ -1,5 +1,5 @@
 interface CordovaCouchbaseLite {
-    getUrl(callback: (err: Error, url: string) => void): void
+    getURL(callback: (err: Error, url: string) => void): void
 }
 
 interface Window {
